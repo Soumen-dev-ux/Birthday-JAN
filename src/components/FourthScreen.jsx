@@ -9,17 +9,23 @@ export default function FourthScreen({ onShowOverlay }) {
   const [showButton, setShowButton] = useState(false)
   const scrollRef = useRef(null)
 
-  const specialMessage = `My dearest love,
+  const specialMessage = `Hey,
 
-Every day with you feels like a beautiful dream that I never want to wake up from. You've brought so much joy, laughter, and love into my life that I can't imagine a world without you in it.
+I really don't have any idea what to say, ignoring the cue I just want to say Happy Birthday!!!!... Many many happy returns of the day.... 
 
-Your smile lights up my darkest days, your laugh is my favorite melody, and your love is my greatest treasure. Thank you for being you - for being patient with me, for supporting my dreams, for making ordinary moments feel extraordinary.
+Be happy and keep smiling, you've got this!
 
-You are my best friend, my partner in crime, my safe haven, and my greatest adventure all rolled into one amazing person. I am so grateful that the universe brought us together.
+Or,
 
-I love you more than words can express, more than actions can show, and more than time can measure. You are my forever and always.`
+I don't know or what.
 
-  const endingText = "There’s one last thing, not too much but I wish could last forever like now-a-days."
+So one again Happy Birthday ... Be childish
+
+
+Whatever i hope this is enough, ignore if u don't like it `
+
+  const endingText = `There’s one last thing, not too much but... 
+  Dekh niche ek button hai 👇.`
 
   useEffect(() => {
     let index = 0

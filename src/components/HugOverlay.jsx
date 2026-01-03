@@ -82,7 +82,7 @@ export default function HugOverlay({ show, onClose }) {
               transition={{ delay: 1.3, duration: 1 }}
               className="text-gray-700 text-xl mb-8 font-bold relative z-10 leading-relaxed flex flex-col items-center justify-center gap-2"
             >
-              Ignore the sticker, I wish our friendship stays like this forver and ever and ever...😊
+              Ignore the sticker as you did with the texts, I wish our friendship stays like this not too updated nor outdated...😊
               <Heart size={20} fill="currentColor" className="text-pink-500" />
             </motion.p>
 
@@ -101,7 +101,7 @@ export default function HugOverlay({ show, onClose }) {
             >
               <div className="absolute inset-0 bg-white/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-0" />
               <span className="relative z-10 flex gap-2">
-                I adore it 😌
+                Thank You 😌
                 <Heart size={20} fill="currentColor" className="mt-0.5" />
               </span>
             </motion.button>

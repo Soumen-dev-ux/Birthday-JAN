@@ -61,7 +61,7 @@ export default function RestartOverlay({ show, onRestart }) {
               transition={{ delay: 1.2, duration: 1.5 }}
               className="text-2xl text-pink-100 mb-10 font-bold flex flex-col items-center justify-center gap-2"
             >
-              Want to feel the magic once more?
+              You can also thank on WhatsApp.
               <Sparkles size={24} className="text-pink-200" />
             </motion.p>
 
@@ -80,7 +80,7 @@ export default function RestartOverlay({ show, onRestart }) {
             >
               <div className="absolute inset-0 bg-gradient-to-r from-pink-200 via-purple-200 to-pink-200 opacity-0 group-hover:opacity-100 transition-opacity duration-700"></div>
               <span className="relative z-10 flex items-center gap-3">
-                Start Again
+                if u want to see again the click on it 
                 <motion.span
                 >
                   <RotateCw size={24} />
