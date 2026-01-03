@@ -80,7 +80,7 @@ export default function RestartOverlay({ show, onRestart }) {
             >
               <div className="absolute inset-0 bg-gradient-to-r from-pink-200 via-purple-200 to-pink-200 opacity-0 group-hover:opacity-100 transition-opacity duration-700"></div>
               <span className="relative z-10 flex items-center gap-3">
-                if u want to see again the click on it 
+                See Again ✨ 
                 <motion.span
                 >
                   <RotateCw size={24} />
