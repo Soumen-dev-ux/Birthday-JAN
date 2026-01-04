@@ -13,13 +13,13 @@ export default function FourthScreen({ onShowOverlay }) {
 
 I really don't have any idea what to say, ignoring the cue I just want to say Happy Birthday!!!!... Many many happy returns of the day.... 
 
-Be happy and keep smiling, you've got this!
+Be happy and keep smiling, as you've got this right now while reading my funny texts!
 
 Or,
 
 I don't know or what.
 
-So one again Happy Birthday ... Be childish
+So once again Happy Birthday ... Be childish
 
 
 Whatever i hope this is enough, ignore if u don't like it `
